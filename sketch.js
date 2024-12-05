@@ -14,7 +14,7 @@ let colorPalette = [
 
 function setup() {
   createCanvas(400, 400);
-  background("black");
+  background("blue");
 
   for (i = 0; i < 10; i++) {
     randomWalkers.push(
